@@ -119,5 +119,4 @@ It emphasizes:
 
 ---
 
-## 📎 Resume Summary
-Built a sector-level market stress analysis model on ~2200 stocks using Python and DuckDB, analyzing returns, breadth, and dispersion to identify sectoral risk and momentum trends.
+
